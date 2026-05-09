@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ergonomic Office Chair",
+    "price": 150,
+    "category": "Furniture",
+    "description": "Comfortable mesh chair with lumbar support.",
+    "seller": "Office World",
+    "postedDate": "2025-01-10",
+    "premiumProducts": false
+  },
+  {
+    "name": "Standing Desk",
+    "price": 350,
+    "category": "Furniture",
+    "description": "Electric height-adjustable desk, four presets.",
+    "seller": "Julian Vance",
+    "postedDate": "2025-02-14",
+    "premiumProducts": false
+  },
+  {
+    "name": "Noise-Canceling Headphones",
+    "price": 299,
+    "category": "Electronics",
+    "description": "Wireless over-ear, 30-hour battery life.",
+    "seller": "Elena Rodriguez",
+    "postedDate": "2025-03-01",
+    "premiumProducts": false
+  },
+  {
+    "name": "Bookshelf Speaker Set",
+    "price": 120,
+    "category": "Electronics",
+    "description": "Compact stereo speakers, rich bass output.",
+    "seller": "AudioHub",
+    "postedDate": "2025-03-15",
+    "premiumProducts": false
+  },
+  {
+    "name": "Wooden Coffee Table",
+    "price": 200,
+    "category": "Furniture",
+    "description": "Solid oak table, minimalist design.",
+    "seller": "CraftWood Co.",
+    "postedDate": "2025-01-20",
+    "premiumProducts": false
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": 95,
+    "category": "Electronics",
+    "description": "Tactile switches, RGB backlit, USB-C.",
+    "seller": "KeyTech",
+    "postedDate": "2025-02-05",
+    "premiumProducts": false
+  }
+]
